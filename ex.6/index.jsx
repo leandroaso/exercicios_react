@@ -6,7 +6,5 @@ import Mamber from './member'
 ReactDOM.render(
     <Family lastName='Alves'>
         <Mamber name='leandro' />
-        <Mamber name='Irineu' />
-        <Mamber name='leandro' />
     </Family>
     ,document.getElementById('app'))
