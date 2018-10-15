@@ -3,5 +3,5 @@ import ReactDOM from 'react-dom'
 import ClassComponent from './ClassComponent'
 
 ReactDOM.render(
-    <ClassComponent label='Contador' initialValue={10}/>
+    <ClassComponent value='Componete classe'/>
     ,document.getElementById('app'))
